@@ -45,7 +45,7 @@ body{
     letter-spacing: 2px;
     font-family: proxima-nova,sans-serif;
     font-weight: 400;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     padding: 1.7rem 0;
     text-color: #1d2a3b;
 }
@@ -70,9 +70,9 @@ body{
      
 .hero-wrap > button{
     color: white;
-    padding: 0.8rem;
+    padding: 2.5rem;
     background: #2c76dc;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 500;
     border: 0px;
     border-radius: 2px;
