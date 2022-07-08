@@ -1,0 +1,87 @@
+/* Default setting */
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    height: 100vh;/* vh=view height */
+}
+
+/* * is a css selector that selects all the elements in html */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* End of default setting */ 
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    background: #ffffff;
+    height: 9vh;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    /* A rem ia a relative value that is relative to the front size of the html document u are working on. 1ram=16px; which is the normal px of the web browser. */
+}
+
+.logo{
+    width: 20%;
+    
+}
+
+.hero{
+    background: #ccedff;
+   /*  #d5f4ff; */
+}
+
+
+.hero-wrap{
+    width: 89%;
+    margin: 0 auto;
+}
+
+.hero-wrap > h1{
+    letter-spacing: 2px;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 500;
+    font-size: 0.8rem;
+    padding: 1.7rem 0;
+    text-color: #1d2a3b;
+}
+
+.hero-wrap > h2{
+    font-family: ;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    line-height: 0.9;
+    padding-bottom: 1.5rem;
+    text-color: #1d2a3b;
+}
+
+.hero-wrap > p{
+    font-family: proxima-nova,sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.2;
+    text-color: #1d2a3b;
+    margin-bottom: 1.5rem;
+}
+     
+.hero-wrap > button{
+    color: white;
+    padding: 0.8rem;
+    background: #2c76dc;
+    font-size: 1.2rem;
+    font-weight: 500;
+    border: 0px;
+    border-radius: 2px;
+    margin-bottom: 1.8rem;
+}    
+
+.hero-image{
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+} 
+
