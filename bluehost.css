@@ -1,10 +1,8 @@
 /* Default setting */
 body{
     box-sizing: border-box;
-    margin: 0px auto;
+    margin: 0px;
     height: 100vh;/* vh=view height */
-    object-fit: contain; 
-    padding: 0px;
 }
 
 /* * is a css selector that selects all the elements in html */
