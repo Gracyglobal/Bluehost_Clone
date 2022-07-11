@@ -199,9 +199,9 @@ body{
 .resources >h2{
     font-family: ;
     font-weight: bolder;
-    font-size: 3rem;
+    font-size: 5rem;
     padding-left: 1.7rem;
-    margin-bottom:1.5rem;
+    margin-bottom:2.5rem;
     text-color: #1d2a3b;
 }
 
@@ -240,7 +240,7 @@ body{
 .writeups >h2{
     text-color: #1d2a3b;   
     padding-left: 1.7rem;
-    font-size: 3rem;
+    font-size: 5rem;
     font-family: Georgia,serif;
     margin-bottom: 2rem;
 }
