@@ -174,7 +174,7 @@ body{
 /* Container */
 .container{
     background: #ccedff;
-    padding-bottom: 4rem;
+    padding-bottom: 6rem;
 }
 
 .ladyonlaptop{
@@ -228,7 +228,7 @@ body{
 /* ending */
 .ending{
     background: #019fff;
-    padding-top: 4rem;
+    padding-top: 6rem;
 }
 
 .writeups >h1{
