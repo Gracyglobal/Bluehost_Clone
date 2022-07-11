@@ -158,7 +158,7 @@ body{
 .chooseWordPress > h2{
     text-weight: 500rem;
     text-align: center;
-    font-size: 5rem;
+    font-size: 6rem;
     text-color: #1d2a3b;
 }
 
@@ -201,7 +201,7 @@ body{
     font-weight: bolder;
     font-size: 5rem;
     padding-left: 1.7rem;
-    margin-bottom:2.5rem;
+    margin-bottom:3.1rem;
     text-color: #1d2a3b;
 }
 
@@ -216,7 +216,7 @@ body{
 .resources > ul{
      width: 90%;
     font-family: Georgia,serif;
-    padding-left: 1.9rem;
+    padding-left: 2rem;
     color: #2c76dc;
     font-size: 0.98rem;
     overflow: hidden;
