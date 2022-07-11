@@ -85,3 +85,182 @@ body{
     object-fit: contain;
 } 
 
+/* WriteUps1 */
+.writeups1 > h2{
+    font-weight: 0.4rem;
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    text-color: #1d2a3b;
+}
+
+.writeups1 > p{
+    font-size: 1.rem;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    text-color: #1d2a3b;
+    margin-bottom: 3rem;
+}
+
+.hostingplans{
+    padding-left: 2.7rem;
+    margin-bottom: 2.3rem;
+}
+
+/* WriteUps2 */
+.writeups2 > h2{
+    padding-left: 1rem;
+    text-color: #1d2a3b;
+}  
+ 
+.writeups2 > p{
+    font-size: 1rem;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    text-color: #1d2a3b;
+    margin-bottom: 5rem;
+}
+
+/* WriteUps3*/
+.writeups3 > h2{
+    padding-left: 1rem;
+    text-color: #1d2a3b;
+}  
+ 
+.writeups3 > p{
+    font-size: 1rem;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    text-color: #1d2a3b;
+    margin-bottom: 5rem;
+}
+
+/* WriteUps4 */
+.writeups4 > h2{
+    padding-left: 1rem;
+    text-color: #1d2a3b;
+}  
+ 
+.writeups4 > p{
+    font-size: 1rem;
+    padding-left: 1rem;
+    padding-right: 0.2rem;
+    text-color: #1d2a3b;
+    margin-bottom: 1rem;
+}
+
+/* chooseWordPress */
+.chooseWordPress > h2{
+    text-align: center;
+    font-size: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-color: #1d2a3b;
+}
+
+.chooseWordPress > p{
+    text-align: center;
+    font-size: 1rem;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+}
+
+/* Container */
+.container{
+    background: #ccedff;
+    padding-bottom: 4rem;
+}
+
+.ladyonlaptop{
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+/* resources */
+ .resources{
+    margin: auto;
+    overflow: hidden;
+    
+} 
+
+.resources >h1{
+    letter-spacing: 2px;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 500;
+    font-size: 0.8rem;
+    padding-left: 1rem;
+    text-color: #1d2a3b;
+}
+
+.resources >h2{
+    font-family: ;
+    font-weight: bolder;
+    font-size: 1.8rem;
+    padding-left: 1rem;
+    padding-bottom: 1.5rem;
+    text-color: #1d2a3b;
+}
+
+.resources >h4{
+    font-family: Georgia,serif;
+    font-weight: 800;
+    font-size: 1.31rem;
+    padding-left: 1rem;
+    text-color: #1d2a3b;
+}
+
+.resources > ul{
+     width: 90%;
+    font-family: Georgia,serif;
+    padding-left: 1rem;
+    color: #2c76dc;
+    font-size: 0.98rem;
+    margin-left: 1rem;
+    overflow: hidden;
+}
+
+/* ending */
+.ending{
+    background: #019fff;
+    padding-top: 4rem;
+}
+
+.writeups >h1{
+    letter-spacing: 2px;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 360;
+    font-size: 0.9rem;
+    padding-left: 1rem;
+    text-color: #1d2a3b;   
+}
+
+.writeups >h2{
+    text-color: #1d2a3b;   
+    padding-left: 1rem;
+    font-size: 2rem;
+    font-family: Georgia,serif;
+    margin-bottom: 1.3rem;
+}
+
+.writeups >h3{
+    font-size: 1.25rem;
+    padding-left: 1rem;
+    font-family: Georgia,serif;
+    margin-bottom: 0.8rem;
+}
+
+.writeups >p{
+    padding-left: 1rem;
+    font-size: 0.9rem;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 380;
+}
+
+.sg{
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+}
+
