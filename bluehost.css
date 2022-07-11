@@ -201,7 +201,7 @@ body{
     font-weight: bolder;
     font-size: 3rem;
     padding-left: 1.7rem;
-    padding-bottom: 1.7rem;
+    margin-bottom:1.5rem;
     text-color: #1d2a3b;
 }
 
@@ -246,7 +246,7 @@ body{
 }
 
 .writeups >h3{
-    font-size: 2.3rem;
+    font-size: 2rem;
     padding-left: 1.7rem;
     font-family: Georgia,serif;
     margin-bottom: 1.5rem;
