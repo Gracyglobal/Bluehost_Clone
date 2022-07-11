@@ -159,8 +159,6 @@ body{
     text-weight: 500rem;
     text-align: center;
     font-size: 5rem;
-    padding-left: 0.2rem;
-    padding-right: 0.2rem;
     text-color: #1d2a3b;
 }
 
@@ -195,14 +193,13 @@ body{
     font-weight: 400;
     font-size: 0.6rem;
     padding-left: 1.5rem;
-    padding-top: 1rem;
     text-color: #1d2a3b;
 }
 
 .resources >h2{
     font-family: ;
     font-weight: bolder;
-    font-size: 1.8rem;
+    font-size: 3rem;
     padding-left: 1.7rem;
     padding-bottom: 1.7rem;
     text-color: #1d2a3b;
@@ -249,7 +246,7 @@ body{
 }
 
 .writeups >h3{
-    font-size: 1.3rem;
+    font-size: 2.3rem;
     padding-left: 1.7rem;
     font-family: Georgia,serif;
     margin-bottom: 1.5rem;
