@@ -178,9 +178,10 @@ body{
 }
 
 .ladyonlaptop{
-    width: 80%;
+    width: 100%;
+    overflow: hidden;
     object-fit: contain;
-    padding-left: 45rem;
+    padding-left: 35rem;
 }
 
 /* resources */
@@ -264,7 +265,8 @@ body{
 }
 
 .sg{
-    width: 80%
+    width: 100%
+    overflow: hidden; 
     margin: 0;
     object-fit: contain;
 }
