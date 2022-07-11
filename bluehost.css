@@ -159,8 +159,8 @@ body{
     text-weight: 500rem;
     text-align: center;
     font-size: 5rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     text-color: #1d2a3b;
 }
 
@@ -218,7 +218,7 @@ body{
 .resources > ul{
      width: 90%;
     font-family: Georgia,serif;
-    padding-left: 1.7rem;
+    padding-left: 1.9rem;
     color: #2c76dc;
     font-size: 0.98rem;
     margin-left: 1rem;
@@ -252,7 +252,7 @@ body{
     font-size: 1.3rem;
     padding-left: 1.7rem;
     font-family: Georgia,serif;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.9rem;
 }
 
 .writeups >p{
