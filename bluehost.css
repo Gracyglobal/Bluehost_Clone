@@ -219,7 +219,7 @@ body{
 .resources > ul{
      width: 90%;
     font-family: Georgia,serif;
-    padding-left: 1.7rem;
+    padding-left: 1.9rem;
     color: #2c76dc;
     font-size: 0.98rem;
     overflow: hidden;
@@ -243,7 +243,7 @@ body{
 .writeups >h2{
     text-color: #1d2a3b;   
     padding-left: 1.7rem;
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-family: Georgia,serif;
     margin-bottom: 2rem;
 }
