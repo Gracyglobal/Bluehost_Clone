@@ -178,9 +178,9 @@ body{
 }
 
 .ladyonlaptop{
-    width: 200px;
+    width: 80%;
     object-fit: contain;
-    padding-left: 55rem;
+    padding-left: 45rem;
 }
 
 /* resources */
@@ -264,6 +264,8 @@ body{
 }
 
 .sg{
+    width: 80%
+    margin: 0;
     object-fit: contain;
 }
 
