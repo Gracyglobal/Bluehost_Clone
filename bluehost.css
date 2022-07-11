@@ -159,8 +159,8 @@ body{
     text-weight: 500rem;
     text-align: center;
     font-size: 5rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
     text-color: #1d2a3b;
 }
 
@@ -195,6 +195,7 @@ body{
     font-weight: 400;
     font-size: 0.6rem;
     padding-left: 1.5rem;
+    padding-top: 1rem;
     text-color: #1d2a3b;
 }
 
@@ -218,10 +219,9 @@ body{
 .resources > ul{
      width: 90%;
     font-family: Georgia,serif;
-    padding-left: 1.9rem;
+    padding-left: 1.7rem;
     color: #2c76dc;
     font-size: 0.98rem;
-    margin-left: 1rem;
     overflow: hidden;
 }
 
@@ -245,14 +245,14 @@ body{
     padding-left: 1.7rem;
     font-size: 2.5rem;
     font-family: Georgia,serif;
-    margin-bottom: 1.3rem;
+    margin-bottom: 1.5rem;
 }
 
 .writeups >h3{
     font-size: 1.3rem;
     padding-left: 1.7rem;
     font-family: Georgia,serif;
-    margin-bottom: 0.9rem;
+    margin-bottom: 1rem;
 }
 
 .writeups >p{
